@@ -106,7 +106,7 @@
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| <a href="mailto:jhojan4523@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="www.linkedin.com/in/jhojan-ramirez-900271362"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> ‎ ‎ ‎ ‎  |
+| <a href="mailto:jhojan4523@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://www.linkedin.com/in/jhojan-ramirez-900271362"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> ‎ ‎ ‎ ‎  |
 
 </div>
 
